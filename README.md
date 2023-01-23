@@ -1,6 +1,6 @@
 # Ruphael
 <h1> Hello there</h1>
-<h3>My name is Ruphael de Reuck and I'm a software developer. I live in South Africa. Currentlu working in Northroom technologies 
+<h3>My name is Ruphael de Reuck and I'm a software developer. I live in South Africa. Currently working in Northroom technologies. 
 </h3>
 
 <h1> Tools & Technologies:</h1>
