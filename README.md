@@ -4,10 +4,21 @@
 </h3>
 
 <h1> Tools & Technologies:</h1>
-![](https://img.shields.io/badge/OS-Windows-informational?style=flat&logo=Windows&logoColor=white&color=blueviolet)
-![](https://img.shields.io/badge/Editor-VSCode-informational?style=flat&logo=visual-studio-code&logoColor=white&color=blueviolet)
-![](https://img.shields.io/badge/Code-Csharp-informational?style=flat&logo=csharp&logoColor=white&color=blueviolet)
-![](https://img.shields.io/badge/Tools-React-informational?style=flat&logo=React&logoColor=white&color=blueviolet)
-![](https://img.shields.io/badge/Tools-React_Native-informational?style=flat&logo=React&logoColor=white&color=blueviolet)
-![](https://img.shields.io/badge/Tools-Expo-informational?style=flat&logo=Expo&logoColor=white&color=blueviolet)
 
+<h3> Developement Tools</h3>
+<ul>
+  <li>VSCode</li>
+  <li>React native</li>
+  <li>Expo</li>
+  <li>Mobx-state-tree</li>
+</ul>
+
+<h3> Developement languages</h3>
+<ul>
+  <li>C#</li>
+  <li>JavaScript</li>
+  <li>TypeScript</li>
+  <li>Php</li>
+  <li>SQL</li>
+  <li>Java</li>
+</ul>
