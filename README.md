@@ -4,22 +4,12 @@
 </h3>
 
 # Tools & Technologies:
-
-<h3> Developement Tools</h3>
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-<ul>
-  <li>VSCode</li>
-  <li>React native</li>
-  <li>Expo</li>
-  <li>Mobx-state-tree</li>
-</ul>
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) 
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![Expo](https://img.shields.io/badge/expo-1C1E24?style=for-the-badge&logo=expo&logoColor=#D04A37)
+![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
+![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
 
-<h3> Developement languages</h3>
-<ul>
-  <li>C#</li>
-  <li>JavaScript</li>
-  <li>TypeScript</li>
-  <li>Php</li>
-  <li>SQL</li>
-  <li>Java</li>
-</ul>
